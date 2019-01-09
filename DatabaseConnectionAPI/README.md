@@ -88,11 +88,12 @@
 					Value : (The value of the last ping time)
 				</li>
 			</ol>
--->
+
 		</li>
 		<li>16Aug2018 wjj </br>
 				
 		</li>
+-->
 	</ul>
 </p>
 </hr>
