@@ -1,0 +1,9 @@
+{
+  "name": "database-connection-api",
+  "version": "0.0.0",
+  "description": "DatabaseConnectionAPI",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
