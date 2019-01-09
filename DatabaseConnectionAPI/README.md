@@ -75,7 +75,7 @@
 			Installed .Net 3.5 for OE install requirments</br>
 			Installed Emerson OpenEnterprise Server</br>
 			Worked on updating readme.md html to look correct</br>
-<!--			On the OE Database Setup the following signals per device to be monitored
+			On the OE Database Setup the following signals per device to be monitored
 			<ol>
 				<li>LocalStringSignal : 
 					Name : ScadaPing:(DeviceType).(DeviceName).STR
@@ -93,7 +93,7 @@
 		<li>16Aug2018 wjj </br>
 				
 		</li>
--->
+
 	</ul>
 </p>
 </hr>
@@ -106,6 +106,12 @@
 		<li>How to use net-ping</br>
 		https://github.com/nospaceships/node-net-ping
 		</li>
+		<li>Connecting to enea polyhedra database
+		http://developer.polyhedra.com/
+		https://sites.google.com/site/polyhedradbms/how-to-guides/connecting-to-a-polyhedra-server#TOC-Accessing-a-Polyhedra-database
+
+		</li>
+
 	</ul>
 </p>
 
